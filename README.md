@@ -1,4 +1,4 @@
 # AppSec-Program
 This repository is to showcase how a generic Application Security Program can look like
 
-https://mail.google.com/mail/u/0/#search/in%3Asent+Nykaa/KtbxLvhZlHZKrzffCqWJHvfbrzNpGfPPCg 
+https://drive.google.com/file/d/1ZL3sMKtzXyucqf8xiYRfOxozOWDYyqY5/view?usp=drive_link
